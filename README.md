@@ -1,2 +1,2 @@
 # spectral-signal-tracking
-A python solution for the tracking of significant signal in EHA spectral estimates
+A python script used to track significant signal in EHA sepactral estimate results.
